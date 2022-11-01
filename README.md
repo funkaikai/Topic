@@ -2,4 +2,4 @@
 
 ## 声明
   * 本仓库会记录难以理解的概念或者是主题.
-  * 作者当前的使用工具是Ipad + laptop.Ipad上使用的软件为GoodNotes,目的是阅读作笔记.Laptop用于辅助.
+  * 作者当前的使用工具是Ipad + laptop.Ipad上使用的软件为GoodNotes,目的是阅读作笔记.Laptop作为辅助工具.
